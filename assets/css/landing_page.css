@@ -1,0 +1,15 @@
+body, html {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+#map{
+	height: 100%;
+	width: 100%;
+}
+
+.small_logo {
+	width: 20px;
+}
+
+/*body.dimmable.dimmed > .dimmer { overflow: auto; -webkit-overflow-scrolling: touch; }*/
